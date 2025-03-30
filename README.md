@@ -18,4 +18,4 @@ This application performs a stress test on your computer's CPU. **Use it with ca
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Honeii.exe_CPU-Virus.git
+   git clone https:/Spoly-x/github.com/Honeii.exe_CPU-Virus.git
