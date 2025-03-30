@@ -6,6 +6,25 @@ This application performs a stress test on your computer's CPU. **Use it with ca
 
 - [Features](#features)
 - [Installation](#installation)
+- [READMECAREFULLY](#results)
+
+## Results
+
+### CPU Overload:
+The code constantly runs the processor at close to 100% through complex operations (factorial programming) in an endless loop.
+
+This can cause the processor to overheat and damage other components of the computer.
+
+### System Instability:
+Excessive CPU usage can cause system crashes and the computer to become temporarily unresponsive or freeze.
+Active programs and the persistence system can be affected.
+### Hardware Damage:
+Especially on laptops, processor temperatures can reach dangerous levels due to inadequate cooling systems.
+Prolonged overheating can shorten the life of the processor and other hardware components or cause permanent damage.
+### Battery Drain:
+On laptops, such a processor load causes the battery to cool down too quickly.
+### Data Loss:
+System corruption, such as freezing or crashing, is possible, and unsaved data can be lost.
 
 ## Features
 
